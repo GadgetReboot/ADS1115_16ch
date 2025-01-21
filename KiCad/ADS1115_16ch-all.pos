@@ -1,0 +1,60 @@
+### Footprint positions - created on 2024-11-26T15:04:11-0500 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                             PosX       PosY       Rot  Side
+G***      LOGO              pcb_way_logo                                     29.5116    27.1992  180.0000  bottom
+C1        10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       7.5774    26.8094  -90.0000  top
+C2        100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      24.1374    14.8326  -90.0000  top
+C3        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      12.5586     7.5862   90.0000  top
+C4        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      17.9182     7.5862   90.0000  top
+C5        100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      46.2606    14.8486  -90.0000  top
+C6        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      22.9346     7.5354   90.0000  top
+C7        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      27.8878     7.5354   90.0000  top
+C8        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      34.6570     7.7386   90.0000  top
+C9        10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      39.8514     7.5862   90.0000  top
+C10       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      44.8426     7.6878   90.0000  top
+C11       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      49.6426     7.6718   90.0000  top
+C12       100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      36.3448    21.3236   90.0000  top
+C13       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      47.4418    29.3106  -90.0000  top
+C14       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      42.3998    29.3106  -90.0000  top
+C15       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      37.3578    29.3106  -90.0000  top
+C16       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      32.0618    29.3106  -90.0000  top
+C17       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      25.4958    29.3106  -90.0000  top
+C18       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      20.4418    29.3266  -90.0000  top
+C19       100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      14.4628    21.1966   90.0000  top
+C20       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      15.3998    29.3266  -90.0000  top
+C21       10nF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      10.1038    29.3266  -90.0000  top
+D1        LED_Small_Filled  LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    53.0266    25.1030    0.0000  top
+J1        Conn_01x06        PinHeader_1x06_P2.54mm_Vertical                   1.5456    24.7370    0.0000  top
+J2        Conn_01x08        PinHeader_1x08_P2.54mm_Vertical                  10.2798     1.5554   90.0000  top
+J3        Conn_01x08        PinHeader_1x08_P2.54mm_Vertical                  32.1238     1.5554   90.0000  top
+J4        Conn_01x08        PinHeader_1x08_P2.54mm_Vertical                  49.9038    35.2946  -90.0000  top
+J5        Conn_01x08        PinHeader_1x08_P2.54mm_Vertical                  28.0598    35.2946  -90.0000  top
+J6        Conn_01x04        PinHeader_1x04_P2.54mm_Vertical                  57.7576    22.3240    0.0000  top
+R1        4K7               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       7.5874    21.3464  -90.0000  top
+R2        4K7               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       9.7088    21.3006  -90.0000  top
+R3        4K7               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      11.8074    21.2194  -90.0000  top
+R4        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      10.2814     7.5562   90.0000  top
+R5        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      15.4774     7.5562   90.0000  top
+R6        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      20.4522     7.5562   90.0000  top
+R7        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      25.5394     7.5562   90.0000  top
+R8        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      32.1470     7.6578   90.0000  top
+R9        470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      37.3578     7.5818   90.0000  top
+R10       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      42.2382     7.5818   90.0000  top
+R11       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      47.2710     7.5818   90.0000  top
+R12       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      49.9878    29.4006  -90.0000  top
+R13       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      44.7518    29.1466  -90.0000  top
+R14       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      39.7698    29.4006  -90.0000  top
+R15       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      34.5338    29.1466  -90.0000  top
+R16       0r                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      47.3740    21.7492    0.0000  top
+R17       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      28.1038    29.2226  -90.0000  top
+R18       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      22.8678    29.2226  -90.0000  top
+R19       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      17.8858    29.2226  -90.0000  top
+R20       470r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      12.6498    29.2226  -90.0000  top
+R21       300r              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      56.8266    25.0860  180.0000  top
+U1        ADS1115IDGS       TSSOP-10_3x3mm_P0.5mm                            19.3834    14.2206    0.0000  top
+U2        ADS1115IDGS       TSSOP-10_3x3mm_P0.5mm                            41.3290    14.1226    0.0000  top
+U3        ADS1115IDGS       TSSOP-10_3x3mm_P0.5mm                            41.2522    22.6838  180.0000  top
+U4        ADS1115IDGS       TSSOP-10_3x3mm_P0.5mm                            19.4850    22.6262  180.0000  top
+## End
